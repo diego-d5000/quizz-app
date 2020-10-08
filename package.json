@@ -20,7 +20,7 @@
     "framer-motion": "^2.3.0",
     "he": "^1.2.0",
     "lodash": "^4.17.19",
-    "next": "9.5.1",
+    "next": "9.5.4",
     "next-offline": "^5.0.2",
     "prettier": "^2.0.5",
     "react": "16.13.1",
